@@ -2,7 +2,9 @@
 
 ## Summary
 
-This repository contains few implementations of FizzBuzz problem in C and Java:
+This repository contains few implementations of FizzBuzz problem in C and Java for my public talk: [Youtube](https://youtu.be/hA2RsVVHPbE)
+
+Here you can find [slides](https://b00blik.ru/pres/FizzBuzzTalk_en_FCC.pdf)
 
 ### FizzBuzzMultithreading
 
